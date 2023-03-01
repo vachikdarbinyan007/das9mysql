@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: tahoma;
+    box-sizing: border-box;
+    background-image: url("https://th.bing.com/th/id/OIP.2GHe65zR32lPZFpTRrIRlAHaE8?pid=ImgDet&rs=1");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+table{
+    width: 100%;
+    border: solid;
+}
+td,tr{
+    border: solid;
+}
